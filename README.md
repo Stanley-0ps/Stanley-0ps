@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Stanley
 
-<!--
-**Stanley-0ps/Stanley-0ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Self-Taught Software Developer | Backend & Systems | Go & JavaScript**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a developer who enjoys building things from scratch — whether it's backend systems, developer tools, or real-time applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on **clean architecture, performance, and scalable systems design.**
+
+---
+
+## 🚀 About Me
+
+- 💻 Backend-oriented developer (Go language & JavaScript)
+- ⚡ Interested in real-time systems, concurrency, and performance
+- 🛠️ I enjoy building tools from scratch (APIs, CLI tools, frameworks)
+- 🧠 Strong problem-solving mindset
+- 🐧 Comfortable working in Linux environments
+- 📚 Always learning and experimenting with new technologies
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+`Go` • `JavaScript` • `TypeScript` • `SQL`
+
+### Backend & Systems
+`REST APIs` • `WebSockets` • `Concurrency` • `Microservices` • `PostgreSQL` • `Linux`
+
+### Frontend
+`React` • `DOM` • `State Management`
+
+### Tools
+`Git` • `Docker` • `Node.js` • `System Design`
+
+---
+
+## 📌 What I'm Working On
+
+- 🔧 Building scalable backend systems in Go
+- 📡 Exploring real-time architectures and event-driven systems
+- 🚀 Improving performance optimization and system design skills
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree — Mechanical Engineering**
+Airforce Institute Of Technology (2020–2025)
+Self-taught developer specializing in system & backend engineering.
+
+---
+
+## 📫 Contact
+
+📧 [ochaistanley7@gmail.com](mailto:ochaistanley7@gmail.com)
+🔗 LinkedIn: /ochai-stanley-b192a5315
+🐙 GitHub: /Stanley-0ps
+
+---
+
+⭐ *Always open to interesting projects and collaborations*
