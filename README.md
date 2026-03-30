@@ -48,7 +48,7 @@ I focus on **clean architecture, performance, and scalable systems design.**
 **Bachelor's Degree — Mechanical Engineering**
  
  Airforce Institute Of Technology (2020–2025)
-Self-taught developer specializing in system & backend engineering.
+ Self-taught developer specializing in system & backend engineering.
 
 ---
 
