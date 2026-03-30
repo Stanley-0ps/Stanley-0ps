@@ -46,16 +46,17 @@ I focus on **clean architecture, performance, and scalable systems design.**
 ## 🎓 Education
 
 **Bachelor's Degree — Mechanical Engineering**
-Airforce Institute Of Technology (2020–2025)
+ 
+ Airforce Institute Of Technology (2020–2025)
 Self-taught developer specializing in system & backend engineering.
 
 ---
 
 ## 📫 Contact
 
-📧 [ochaistanley7@gmail.com](mailto:ochaistanley7@gmail.com)
-🔗 LinkedIn: /ochai-stanley-b192a5315
-🐙 GitHub: /Stanley-0ps
+- 📧 [ochaistanley7@gmail.com](mailto:ochaistanley7@gmail.com)
+- 🔗 LinkedIn: /ochai-stanley-b192a5315
+- 🐙 GitHub: /Stanley-0ps
 
 ---
 
